@@ -1,4 +1,4 @@
-# DEV-SORT
+# DEV-INS-SORT
 
 We have a lot of sorting techniques available like Bubble Sort, Quick Sort etc. 
 The sorting technique described here is some what like Insertion Sort. 
