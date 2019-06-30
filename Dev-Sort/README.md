@@ -10,7 +10,7 @@ The elements before it is the array of elements which have already been sorted. 
 The element chosen as a key is compared with each and every element in the sorted array and is placed at it's specific position in the sorted array.
 The process goes on till the Array is sorted completely.
 
-A visual example of the same is given in DEV-INS-SORT.png 
+A visual example of the same is given in DEV-INS-SORT.pdf 
 
 
 
