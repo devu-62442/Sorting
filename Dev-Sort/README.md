@@ -2,7 +2,7 @@
 
 We have a lot of sorting techniques available like Bubble Sort, Quick Sort etc. 
 The sorting technique described here is some what like Insertion Sort. 
-It can't be named as Insertion Sort so the name DEV-INS-SORT.
+#### It can't be named as Insertion Sort so the name DEV-INS-SORT.
 
 ## EXPLAINATION
 In this sort a key is chosen. The key is compared with the elements before it.
